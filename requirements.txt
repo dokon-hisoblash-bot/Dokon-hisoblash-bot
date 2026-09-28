@@ -1,0 +1,3 @@
+python-telegram-bot
+pandes
+openpyx1
